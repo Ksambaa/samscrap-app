@@ -1,1 +1,1 @@
-# Privacy Policy URL For Linkedin Developer tools to have access to Linkedin's APIs
+# Privacy Policy URL for LinkedIn Developer Tools to access LinkedIn's APIs
