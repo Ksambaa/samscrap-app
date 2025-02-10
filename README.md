@@ -1,1 +1,1 @@
-# samscrap-app
+# samscrap
